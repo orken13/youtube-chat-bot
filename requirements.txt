@@ -1,0 +1,10 @@
+langchain>=0.0.267
+yt_dlp>=2023.7.6
+pydub>=0.25.1
+librosa>=0.10.1
+sentence-transformers>=2.2.2
+python-decouple>=3.8
+streamlit>=1.26.0
+openai>=0.28.0
+faiss-cpu>=1.7.4
+minio>=7.1.15
